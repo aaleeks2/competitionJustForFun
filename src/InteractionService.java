@@ -1,4 +1,4 @@
-package poligon.Konkurseł;
+package poligon.Konkurseł.src;
 
 import java.util.Arrays;
 import java.util.List;

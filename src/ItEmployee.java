@@ -1,4 +1,4 @@
-package poligon.Konkurseł;
+package poligon.Konkurseł.src;
 
 public class ItEmployee {
 
