@@ -40,7 +40,7 @@ public class InteractionService {
     private final String QUESTION_1 = "I. W skali od 1(nie lubisz) do 10(jest to twoja pasja) oceń, na ile lubisz programować.";
     private final String QUESTION_2 = "II. W skali od 1(nigdy) do 10(za każdym razem jak koduję) oceń, jak często korzystasz z rozwiązań ze Stack Overflow.";
     private final String QUESTION_3 = "III. Czytasz JAWA(1) czy DŻAWA(2)? Wpisz odpowiednią cyfrę.";
-    private final String QUESTION_4 = "IV. Czy na spotkaniach ze Scrum Masterem rysujesz penisy na whiteboardzie(1), czy nie(2)?";
+    private final String QUESTION_4 = "IV. Czy na spotkaniach ze Scrum Masterem rysujesz rakiety na whiteboardzie(1), czy nie(2)?";
     private final String QUESTION_5 = "V. Na jakim systemie operacyjnym pracujesz? Windows(1), Linux(2), MacOS(3)";
     private final String QUESTION_6 = "VI. Jak myślisz, mam pomysł na kolejne sensowne pytania? Tak(1)/Nie(2)";
     private final String QUESTION_7 = "VII. Czy wygram ten konkurs, bo doceniasz moją pracę nad tym krindżem? Tak(1)/Nie(2)";
